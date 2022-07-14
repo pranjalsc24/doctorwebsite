@@ -1,0 +1,69 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    
+  }
+  
+  .container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  h1, h2 {
+    margin: 0;
+    padding: 0;
+    font-family: "Playfair Display", serif;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: #f69314;
+    line-height: 1.2;
+    font-size: 3rem;
+  }
+  
+  
+  
+  h1 {
+   margin: 10px 190px;
+  }
+  
+  
+ p {
+    margin: 0 0 1rem;
+  }
+  
+  
+  p.large-paragraph {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+
+
+
+
+
+#best {
+    margin: 2rem 0;
+  }
+  
+ 
+  
+  #best .flex > div {
+    width: 40%;
+  }
+  
+  #best ul {
+    padding-left: 20px;
+    margin-bottom: 4rem;
+  }
+
+  
